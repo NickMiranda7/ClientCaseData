@@ -2,6 +2,10 @@
 
 Data organizer *specifically* for case workers who need to access quick notes.
 
+* Java Version 8 
+* Spring Boot Suite project
+* MySQL server database storage
+
 ---
 
 **Functions**
